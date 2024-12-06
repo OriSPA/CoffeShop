@@ -67,7 +67,7 @@ header .navbar{
 }
 
 
-.navnar .nav-logo .logo-text{
+.navbar .nav-logo .logo-text{
     color: var(--white-color);
     font-size: var(--font-size-x1);
     font-weight: var(--font-weight-semibold);
